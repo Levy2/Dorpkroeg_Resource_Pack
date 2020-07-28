@@ -4,4 +4,4 @@
 Give your Runelite client a dark yellow look. 
 
 
-<img src="https://i.imgur.com/TykmH8a.png" width="765"><br/>
+<img src="https://i.imgur.com/O7Kjrl6.png" width="765"><br/>
